@@ -1,0 +1,34 @@
+### Input configuration
+#
+# Example configuration:
+# You can get the names of your inputs by running: swaymsg -t get_inputs
+# Put your touchpad's ID to replace "Touchpad-ID" (keep the quotation marks)
+
+input type:touchpad {
+    dwt enabled
+    tap enabled
+    natural_scroll enabled
+}
+
+input type:keyboard {
+    xkb_layout "us,br"
+    xkb_options "grp:alt_shift_toggle"
+}
+
+input "1133:16465:Logitech_M510" {
+    natural_scroll enabled
+    accel_profile "flat" # disable mouse acceleration (enabled by default; to set it manually, use "adaptive" instead of "flat")
+    pointer_accel 0.1 # set mouse sensitivity (between -1 and 1)
+}
+
+input * xkb_numlock enable
+
+
+# Read `man 5 sway-input` for more information about this section.
+#
+# input type:keyboard xkb_layout "us"
+
+# exec_always {
+#     'swaymsg input type:keyboard xkb_layout "$(localectl status | grep "X11 Layout" | sed -e "s/^.*X11 Layout://")"'
+#     'swaymsg input type:keyboard xkb_variant "$(localectl status | grep "X11 Variant" | sed -e "s/^.*X11 Variant://")"'
+# }

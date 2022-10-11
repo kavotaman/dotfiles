@@ -1,0 +1,27 @@
+#!/bin/bash
+
+echo title
+
+read title
+
+echo year
+
+read year
+
+echo country
+
+read country
+
+echo genre
+
+read genre
+
+echo director
+
+read director
+
+echo rating
+
+read rating
+
+printf "<tr>\n  <td class=\"title\">$title</td>\n  <td class=\"year\">$year</td>\n  <td class=\"country\">$country</td>\n  <td class=\"genre\">$genre</td>\n  <td class=\"director\">$director</td>\n  <td class=\"rating\">$rating</td>\n</tr>" | xclip -selection clipboard

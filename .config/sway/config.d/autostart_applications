@@ -1,0 +1,42 @@
+# Auth with polkit-gnome:
+exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+
+# AUTOTILING
+
+exec_always autotiling
+
+# Desktop notifications
+exec mako
+
+# Network Applet
+exec nm-applet --indicator
+
+# GTK3 applications take a long time to start
+exec systemctl --user import-environment DISPLAY WAYLAND_DISPLAY SWAYSOCK
+exec hash dbus-update-activation-environment 2>/dev/null && \
+     dbus-update-activation-environment --systemd DISPLAY WAYLAND_DISPLAY SWAYSOCK
+
+# WALLPAPER
+exec_always swaybg -i /home/omk/Pictures/WP/at1.jpg
+
+# MPD
+exec_always mpd &
+
+
+# Welcome App
+# exec dex -a -s /etc/xdg/autostart/:~/.config/autostart/  
+
+# Sway Fader
+# exec python3 ~/.config/sway/scripts/swayfader.py      
+
+#exec_always blueman-applet &
+
+# INSYNC
+exec_always sleep 3 && insync start --qt-qpa-platform=xcb &
+
+#exec_always libinput-gestures-setup start &
+#exec wl-paste -t text --watch clipman store --no-persist
+
+# NWG-WRAPPER (conky)
+
+exec_always sleep 3 && nwg-wrapper -s date-wttr.sh -r 1800000 -c date-wttr.css -p right -ml 200 -a start -mr 50 &

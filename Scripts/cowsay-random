@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cowsay -f "$(cowsay -l | sed '1d' | tr ' ' '\n' | sort -R | head -1)"
