@@ -39,4 +39,5 @@ exec_always sleep 3 && insync start --qt-qpa-platform=xcb &
 
 # NWG-WRAPPER (conky)
 
-exec_always sleep 3 && nwg-wrapper -s date-wttr.sh -r 1800000 -c date-wttr.css -p right -ml 200 -a start -mr 50 &
+exec_always nwg-launch
+

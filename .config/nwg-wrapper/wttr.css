@@ -1,5 +1,5 @@
 window {
-        background-color: rgba (0, 0, 0, 0.32)
+        background-color: rgba (0, 0, 0, 0.0)
 }
 
 #box-outer {
@@ -9,5 +9,4 @@ window {
 
 #box-inner {
         background-color: rgba (0, 0, 0, 0.0);
-        padding: 15px
 }
