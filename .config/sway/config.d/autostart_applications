@@ -3,7 +3,7 @@ exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
 # AUTOTILING
 
-exec_always autotiling
+exec autotiling
 
 # Desktop notifications
 exec mako
@@ -20,7 +20,7 @@ exec hash dbus-update-activation-environment 2>/dev/null && \
 exec_always swaybg -i /home/omk/Pictures/WP/at1.jpg
 
 # MPD
-exec_always mpd &
+exec mpd &
 
 
 # Welcome App
@@ -32,12 +32,14 @@ exec_always mpd &
 #exec_always blueman-applet &
 
 # INSYNC
-exec_always sleep 3 && insync start --qt-qpa-platform=xcb &
+exec sleep 3 && insync start --qt-qpa-platform=xcb &
 
 #exec_always libinput-gestures-setup start &
 #exec wl-paste -t text --watch clipman store --no-persist
 
 # NWG-WRAPPER (conky)
 
-exec_always nwg-launch
+exec nwg-wrapper -s wttr.sh -r 300000 -c wttr.css -p left -ml 20 -mt 20 -a start
+
+exec nwg-wrapper -s todo.sh -r 120000 -c todo.css -p right -mr 20 -a start -mt 20 -j right
 

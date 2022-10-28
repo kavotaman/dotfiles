@@ -2,8 +2,8 @@ sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: pause
-current: 848
-time: 89.741000
+current: 1167
+time: 1.519000
 random: 0
 repeat: 0
 single: 0
@@ -880,4 +880,304 @@ playlist_begin
 865:Popular Music/METAL/Edu Falaschi/2020[L] - Temple of Shadows in Concert/19 - Rebirth.mp3
 866:Popular Music/METAL/Edu Falaschi/2020[L] - Temple of Shadows in Concert/20 - In Excelsis.mp3
 867:Popular Music/METAL/Edu Falaschi/2020[L] - Temple of Shadows in Concert/21 - Nova Era.mp3
+868:Popular Music/BRASIL/MC Carol/[2016] Bandida/1 - Nao Foi Cabral (Leo Justi Remix).mp3
+869:Popular Music/BRASIL/MC Carol/[2016] Bandida/2 - Prazer Amante do Seu Marido.mp3
+870:Popular Music/BRASIL/MC Carol/[2016] Bandida/3 - O Amor Acabou.mp3
+871:Popular Music/BRASIL/MC Carol/[2016] Bandida/4 - Propaganda Enganosa.mp3
+872:Popular Music/BRASIL/MC Carol/[2016] Bandida/5 - 100% Feminista.mp3
+873:Popular Music/BRASIL/MC Carol/[2016] Bandida/6 - Jorginho Me Empresta a 12.mp3
+874:Popular Music/BRASIL/MC Carol/[2016] Bandida/7 - 762 Fez Ela Esquecer a Familia.mp3
+875:Popular Music/BRASIL/MC Carol/[2016] Bandida/8 - A Vinganca.mp3
+876:Popular Music/BRASIL/MC Carol/[2016] Bandida/9 - Delacao Premiada.mp3
+877:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/03 - Se Voce Quiser Mas Sem Bronquear.mp3
+878:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/04 - Foi um Rio que Passou em Minha Vida.mp3
+879:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/05 - Um Abraco no Codo.mp3
+880:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/06 - De Onde Vens.mp3
+881:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/07 - Vendedor de Bananas.mp3
+882:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/08 - Lua Aberta.mp3
+883:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/09 - Take it Easy my Brother Charles.mp3
+884:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/10 - Samba sem Viola.mp3
+885:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/11 - Refem da Solidao.mp3
+886:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/12 - Carta de Poeta.mp3
+887:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/01 - Todo Dia É Dia.mp3
+888:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/02 - Está Chegando A Hora.mp3
+889:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/03 - Vesti Azul.mp3
+890:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/04 - Aos Pés Da Cruz.mp3
+891:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/05 - Bim Bom.mp3
+892:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/06 - Roda Viva.mp3
+893:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/07 - Procissão.mp3
+894:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/08 - Samba Da Bênção.mp3
+895:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/09 - Carolina.mp3
+896:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/10 - Alegría, Alegría.mp3
+897:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/11 - O Caderninho.mp3
+898:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/12 - Travessia.mp3
+899:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/01 - País Tropical.mp3
+900:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/02 - Bahia de Todos Os Deuses.mp3
+901:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/03 - Se Você Pensa.mp3
+902:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/04 - Que Maravilha.mp3
+903:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/05 - Custe O Que Custar.mp3
+904:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/06 - Chivas 12.mp3
+905:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/07 - Aquele Abraço.mp3
+906:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/08 - Casaco Marrom.mp3
+907:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/09 - História Em Quadrinhos.mp3
+908:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/10 - You've Got Your Troubles.mp3
+909:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/11 - Pra Dizer Adeus.mp3
+910:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/12 - Vou Me Pirulitar.mp3
+911:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/01 - Vou Deitar e Rolar (Quaquaraquaqua).mp3
+912:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/02 - Eu Tambem Quero Mocoto.mp3
+913:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/08 - Piri Piri.mp3
+914:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/04 - Junto a Voce.mp3
+915:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/12 - Procurando Tu.mp3
+916:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/05 - Quero Voltar pra Bahia.mp3
+917:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/10 - Oba La Vem Ela.mp3
+918:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/09 - Amigo e Pra Essas Coisas.mp3
+919:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/11 - Menina.mp3
+920:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/06 - Jesus Cristo.mp3
+921:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/03 - Amazonas (Keep Walking).mp3
+922:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/01 - Madalena.mp3
+923:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/07 - Na Tonga da Mironga do Kabulete.mp3
+924:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/01-milton_banana_trio--resolucao-wus.mp3
+925:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/02-milton_banana_trio--estamos_ai-wus.mp3
+926:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/03-milton_banana_trio--ve-wus.mp3
+927:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/04-milton_banana_trio--voce-wus.mp3
+928:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/05-milton_banana_trio--cidade_vazia-wus.mp3
+929:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/06-milton_banana_trio--sao_salvador-wus.mp3
+930:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/07-milton_banana_trio--amanha-wus.mp3
+931:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/08-milton_banana_trio--garota_de-ipanema-wus.mp3
+932:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/09-milton_banana_trio--ela_e_carioca-wus.mp3
+933:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/10-milton_banana_trio--noa...noa...-wus.mp3
+934:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/11-milton_banana_trio--nana-wus.mp3
+935:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/12-milton_banana_trio--sambou_sambou-wus.mp3
+936:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/13-milton_banana_trio--roda_viva-wus.mp3
+937:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/14-milton_banana_trio--amazonas-wus.mp3
+938:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/15-milton_banana_trio--vesti_azul-wus.mp3
+939:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/16-milton_banana_trio--samba_da_bencao-wus.mp3
+940:Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/17-milton_banana_trio--carolina-wus.mp3
+941:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1977] Bicho/01 - Odara.mp3
+942:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1977] Bicho/02 - Two Naira Fifty Kobo.mp3
+943:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1977] Bicho/03 - Gente.mp3
+944:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1977] Bicho/04 - Olha O Menino.mp3
+945:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1977] Bicho/05 - Um Índio.mp3
+946:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1977] Bicho/06 - A Grande Borboleta.mp3
+947:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1977] Bicho/07 - Tigresa.mp3
+948:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1977] Bicho/08 - O Leãozinho.mp3
+949:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1977] Bicho/09 - Alguém Cantando.mp3
+950:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/01 - Re-Hash.flac
+951:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/02 - 5,4.flac
+952:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/03 - Tomorrow Comes Today.flac
+953:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/04 - New Genious (Brother).flac
+954:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/05 - Clint Eastwood.flac
+955:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/06 - Man Research (Clapper).flac
+956:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/07 - Punk.flac
+957:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/08 - Sound Check (Gravity).flac
+958:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/09 - Double Bass.flac
+959:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/10 - Rock The House.flac
+960:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/11 - 19-2000.flac
+961:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/12 - Latin Simone (Que Pasa Contigo).flac
+962:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/13 - Starshine.flac
+963:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/14 - Slow Country.flac
+964:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/15 - M1 A1.flac
+965:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/16 - Dracula.flac
+966:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/17 - Left Hand Suzuki Method.flac
+967:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/18 - 19-2000 (Soul Child Remix).flac
+968:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/19 - Clint Eastwood (Ed Case Refix).flac
+969:FLAC/Gorillaz/[2005] Demon Days/01 - Intro.flac
+970:FLAC/Gorillaz/[2005] Demon Days/02 - Last Living Souls.flac
+971:FLAC/Gorillaz/[2005] Demon Days/03 - Kids With Guns.flac
+972:FLAC/Gorillaz/[2005] Demon Days/04 - O Green World.flac
+973:FLAC/Gorillaz/[2005] Demon Days/05 - Dirty Harry.flac
+974:FLAC/Gorillaz/[2005] Demon Days/06 - Feel Good Inc..flac
+975:FLAC/Gorillaz/[2005] Demon Days/07 - El Mañana.flac
+976:FLAC/Gorillaz/[2005] Demon Days/08 - Every Planet We Reach Is Dead.flac
+977:FLAC/Gorillaz/[2005] Demon Days/09 - November Has Come.flac
+978:FLAC/Gorillaz/[2005] Demon Days/10 - All Alone.flac
+979:FLAC/Gorillaz/[2005] Demon Days/11 - White Light.flac
+980:FLAC/Gorillaz/[2005] Demon Days/12 - Dare.flac
+981:FLAC/Gorillaz/[2005] Demon Days/13 - Fire Coming Out of the Monkey's Head.flac
+982:FLAC/Gorillaz/[2005] Demon Days/14 - Don't Get Lost in Heaven.flac
+983:FLAC/Gorillaz/[2005] Demon Days/15 - Demon Days.flac
+984:FLAC/Gorillaz/[2010] Plastic Beach/01 - Orchestral Intro (feat. Sinfonia ViVA).flac
+985:FLAC/Gorillaz/[2010] Plastic Beach/02 - Welcome to the World of the Plastic Beach (feat. Snoop Dogg and Hypnotic Brass Ensemble).flac
+986:FLAC/Gorillaz/[2010] Plastic Beach/03 - White Flag (feat. Bashy, Kano and the National Orchestra for Arabic Music).flac
+987:FLAC/Gorillaz/[2010] Plastic Beach/04 - Rhinestone Eyes.flac
+988:FLAC/Gorillaz/[2010] Plastic Beach/05 - Stylo (feat. Mos Def and Bobby Womack).flac
+989:FLAC/Gorillaz/[2010] Plastic Beach/06 - Superfast Jellyfish (feat. Gruff Rhys and De La Soul).flac
+990:FLAC/Gorillaz/[2010] Plastic Beach/07 - Empire Ants (feat. Little Dragon).flac
+991:FLAC/Gorillaz/[2010] Plastic Beach/08 - Glitter Freeze (feat. Mark E Smith).flac
+992:FLAC/Gorillaz/[2010] Plastic Beach/09 - Some Kind of Nature (feat. Lou Reed).flac
+993:FLAC/Gorillaz/[2010] Plastic Beach/10 - On Melancholy Hill.flac
+994:FLAC/Gorillaz/[2010] Plastic Beach/11 - Broken.flac
+995:FLAC/Gorillaz/[2010] Plastic Beach/12 - Sweepstakes (feat. Mos Def and Hypnotic Brass Ensemble).flac
+996:FLAC/Gorillaz/[2010] Plastic Beach/13 - Plastic Beach (feat. Mick Jones and Paul Simonon).flac
+997:FLAC/Gorillaz/[2010] Plastic Beach/14 - To Binge (feat. Little Dragon).flac
+998:FLAC/Gorillaz/[2010] Plastic Beach/15 - Cloud of Unknowing (feat. Bobby Womack and Sinfonia ViVA).flac
+999:FLAC/Gorillaz/[2010] Plastic Beach/16 - Pirate Jet.flac
+1000:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 01 - Introdução-Good Rockin' Tonight.mp3
+1001:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 02 - Mosca Na Sopa.mp3
+1002:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 03 - Metamorfose Ambulante.mp3
+1003:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 04 - Dentadura Postiça.mp3
+1004:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 05 - As Minas Do Rei Salomão.mp3
+1005:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 06 - A Hora Do Trem Passar.mp3
+1006:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 07 - Al Capone.mp3
+1007:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 08 - How Could I Know.mp3
+1008:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 09 - Rockixe.mp3
+1009:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 10 - Cachorro Urubu.mp3
+1010:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 11 - Ouro De Tolo.mp3
+1011:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 12 - Caroço De Manga.mp3
+1012:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 13 - Loteria Da Babilônia (Ao Vivo).mp3
+1013:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 14 - Ouro De Tolo (Versão Sem Comentários).mp3
+1014:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 01 - Super-Heróis.mp3
+1015:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 02 - Medo Da Chuva.mp3
+1016:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 03 - As Aventuras De Raul Seixas Na Cidade De Thor.mp3
+1017:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 04 - Água Viva.mp3
+1018:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 05 - Moleque Maravilhoso.mp3
+1019:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 06 - Sessão Das 10.mp3
+1020:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 07 - Sociedade Alternativa.mp3
+1021:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 08 - O Trem Das 7.mp3
+1022:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 09 - S.O.S_.mp3
+1023:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 10 - Prelúdio.mp3
+1024:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 11 - Loteria Da Babilônia.mp3
+1025:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 12 - Gitã.mp3
+1026:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 01 - Tente Outra Vez.mp3
+1027:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 02 - Rock do Diabo.mp3
+1028:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 03 - A Maçã.mp3
+1029:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 04 - Eu Sou Egoísta.mp3
+1030:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 05 - Caminhos.mp3
+1031:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 06 - Tu És o MDC da Minha Vida.mp3
+1032:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 07 - A Verdade Sobre a Nostalgia.mp3
+1033:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 08 - Para Nóia.mp3
+1034:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 09 - Peixuxa (O Amiguinho dos Peixes).mp3
+1035:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 10 - É Fim de Mês.mp3
+1036:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 11 - Sunseed.mp3
+1037:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 12 - Caminhos II.mp3
+1038:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 13 - Novo Aeon.mp3
+1039:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 14 - A Maçã.mp3
+1040:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/01 - Canto Para Minha Morte.mp3
+1041:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/02 - Meu Amigo Pedro.mp3
+1042:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/03 - Ave Maria Da Rua.mp3
+1043:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/04 - Quando Você Crescer.mp3
+1044:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/05 - O Dia Da Saudade.mp3
+1045:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/06 - Eu Também Vou Reclamar.mp3
+1046:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/07 - As Minas Do Rei Salomão.mp3
+1047:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/08 - O Homem.mp3
+1048:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/09 - Os Números.mp3
+1049:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/10 - Cantiga De Ninar.mp3
+1050:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/11 - Eu Nasci Há 10 Mil Anos Atrás.mp3
+1051:FLAC/Gorillaz/[2005] Demon Days/01 - Intro.flac
+1052:FLAC/Gorillaz/[2005] Demon Days/02 - Last Living Souls.flac
+1053:FLAC/Gorillaz/[2005] Demon Days/03 - Kids With Guns.flac
+1054:FLAC/Gorillaz/[2005] Demon Days/04 - O Green World.flac
+1055:FLAC/Gorillaz/[2005] Demon Days/05 - Dirty Harry.flac
+1056:FLAC/Gorillaz/[2005] Demon Days/06 - Feel Good Inc..flac
+1057:FLAC/Gorillaz/[2005] Demon Days/07 - El Mañana.flac
+1058:FLAC/Gorillaz/[2005] Demon Days/08 - Every Planet We Reach Is Dead.flac
+1059:FLAC/Gorillaz/[2005] Demon Days/09 - November Has Come.flac
+1060:FLAC/Gorillaz/[2005] Demon Days/10 - All Alone.flac
+1061:FLAC/Gorillaz/[2005] Demon Days/11 - White Light.flac
+1062:FLAC/Gorillaz/[2005] Demon Days/12 - Dare.flac
+1063:FLAC/Gorillaz/[2005] Demon Days/13 - Fire Coming Out of the Monkey's Head.flac
+1064:FLAC/Gorillaz/[2005] Demon Days/14 - Don't Get Lost in Heaven.flac
+1065:FLAC/Gorillaz/[2005] Demon Days/15 - Demon Days.flac
+1066:Popular Music/INTERNATIONAL/Nirvana/[1993] In Utero/Serve the Servants.mp3
+1067:Popular Music/INTERNATIONAL/Nirvana/[1993] In Utero/Scentless Apprentice.mp3
+1068:Popular Music/INTERNATIONAL/Nirvana/[1993] In Utero/Heart Shaped Box.mp3
+1069:Popular Music/INTERNATIONAL/Nirvana/[1993] In Utero/Rape Me.mp3
+1070:Popular Music/INTERNATIONAL/Nirvana/[1993] In Utero/Frances Farmer Will Have Her R.mp3
+1071:Popular Music/INTERNATIONAL/Nirvana/[1993] In Utero/Dumb.mp3
+1072:Popular Music/INTERNATIONAL/Nirvana/[1993] In Utero/Very Ape.mp3
+1073:Popular Music/INTERNATIONAL/Nirvana/[1993] In Utero/Milk It.mp3
+1074:Popular Music/INTERNATIONAL/Nirvana/[1993] In Utero/Pennyroyal Tea.mp3
+1075:Popular Music/INTERNATIONAL/Nirvana/[1993] In Utero/Radio Friendly Unit Shifter.mp3
+1076:Popular Music/INTERNATIONAL/Nirvana/[1993] In Utero/Tourette's.mp3
+1077:Popular Music/INTERNATIONAL/Nirvana/[1993] In Utero/All Apologies.mp3
+1078:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 01 - Introdução-Good Rockin' Tonight.mp3
+1079:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 02 - Mosca Na Sopa.mp3
+1080:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 03 - Metamorfose Ambulante.mp3
+1081:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 04 - Dentadura Postiça.mp3
+1082:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 05 - As Minas Do Rei Salomão.mp3
+1083:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 06 - A Hora Do Trem Passar.mp3
+1084:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 07 - Al Capone.mp3
+1085:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 08 - How Could I Know.mp3
+1086:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 09 - Rockixe.mp3
+1087:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 10 - Cachorro Urubu.mp3
+1088:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 11 - Ouro De Tolo.mp3
+1089:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 12 - Caroço De Manga.mp3
+1090:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 13 - Loteria Da Babilônia (Ao Vivo).mp3
+1091:Popular Music/BRASIL/Raul Seixas/[1973] Krig-Ha, Bandolo!/Raul Seixas - Krig-Ha, Bandolo! - 14 - Ouro De Tolo (Versão Sem Comentários).mp3
+1092:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 01 - Super-Heróis.mp3
+1093:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 02 - Medo Da Chuva.mp3
+1094:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 03 - As Aventuras De Raul Seixas Na Cidade De Thor.mp3
+1095:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 04 - Água Viva.mp3
+1096:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 05 - Moleque Maravilhoso.mp3
+1097:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 06 - Sessão Das 10.mp3
+1098:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 07 - Sociedade Alternativa.mp3
+1099:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 08 - O Trem Das 7.mp3
+1100:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 09 - S.O.S_.mp3
+1101:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 10 - Prelúdio.mp3
+1102:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 11 - Loteria Da Babilônia.mp3
+1103:Popular Music/BRASIL/Raul Seixas/[1974] Gitã/Raul Seixas - Gita - 12 - Gitã.mp3
+1104:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 01 - Tente Outra Vez.mp3
+1105:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 02 - Rock do Diabo.mp3
+1106:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 03 - A Maçã.mp3
+1107:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 04 - Eu Sou Egoísta.mp3
+1108:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 05 - Caminhos.mp3
+1109:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 06 - Tu És o MDC da Minha Vida.mp3
+1110:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 07 - A Verdade Sobre a Nostalgia.mp3
+1111:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 08 - Para Nóia.mp3
+1112:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 09 - Peixuxa (O Amiguinho dos Peixes).mp3
+1113:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 10 - É Fim de Mês.mp3
+1114:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 11 - Sunseed.mp3
+1115:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 12 - Caminhos II.mp3
+1116:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 13 - Novo Aeon.mp3
+1117:Popular Music/BRASIL/Raul Seixas/[1975] Novo Aeon/Raul Seixas - Novo Aeon - 14 - A Maçã.mp3
+1118:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/01 - Canto Para Minha Morte.mp3
+1119:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/02 - Meu Amigo Pedro.mp3
+1120:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/03 - Ave Maria Da Rua.mp3
+1121:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/04 - Quando Você Crescer.mp3
+1122:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/05 - O Dia Da Saudade.mp3
+1123:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/06 - Eu Também Vou Reclamar.mp3
+1124:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/07 - As Minas Do Rei Salomão.mp3
+1125:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/08 - O Homem.mp3
+1126:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/09 - Os Números.mp3
+1127:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/10 - Cantiga De Ninar.mp3
+1128:Popular Music/BRASIL/Raul Seixas/[1976] Há 10 Mil Anos Atrás/11 - Eu Nasci Há 10 Mil Anos Atrás.mp3
+1129:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/01 - Água de Beber.mp3
+1130:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/02 - Meditação.mp3
+1131:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/03 - Ela É Carioca.mp3
+1132:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/04 - Só Tinha de Ser Com Você.mp3
+1133:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/05 - A Felicidade.mp3
+1134:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/06 - Pot Pourri_ Eu e Meu Amor_ Lamento No Morro.mp3
+1135:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/07 - Falando de Amor.mp3
+1136:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/08 - A Correnteza.mp3
+1137:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/09 - O Boto.mp3
+1138:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/10 - Mantiqueira Range.mp3
+1139:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/11 - Corcovado.mp3
+1140:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/12 - Desafinado.mp3
+1141:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/13 - Águas de Março.mp3
+1142:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/01 - Re-Hash.flac
+1143:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/02 - 5,4.flac
+1144:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/03 - Tomorrow Comes Today.flac
+1145:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/04 - New Genious (Brother).flac
+1146:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/05 - Clint Eastwood.flac
+1147:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/06 - Man Research (Clapper).flac
+1148:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/07 - Punk.flac
+1149:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/08 - Sound Check (Gravity).flac
+1150:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/09 - Double Bass.flac
+1151:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/10 - Rock The House.flac
+1152:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/11 - 19-2000.flac
+1153:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/12 - Latin Simone (Que Pasa Contigo).flac
+1154:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/13 - Starshine.flac
+1155:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/14 - Slow Country.flac
+1156:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/15 - M1 A1.flac
+1157:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/16 - Dracula.flac
+1158:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/17 - Left Hand Suzuki Method.flac
+1159:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/18 - 19-2000 (Soul Child Remix).flac
+1160:FLAC/Gorillaz/[2001] Gorillaz (US Reissue 2002)/19 - Clint Eastwood (Ed Case Refix).flac
+1161:Proprias/EP Cavacama/Borboletas Felizes D'Alberti (Or, Too Much Information) v2.mp3
+1162:Proprias/EP Cavacama/Um Dia Não v5.mp3
+1163:Proprias/EP Cavacama/Numa Camada do Batente DEF.mp3
+1164:Proprias/EP Cavacama/Tentei te Arremessar Valsa v2.mp3
+1165:Proprias/EP Cavacama/Viu, Correu, Tossiu.mp3
+1166:Proprias/EP Cavacama/Domingo Apaguei v2.mp3
+1167:Proprias/EP Cavacama/Hoje Almocei Um Par de Nós DEF v2.mp3
 playlist_end

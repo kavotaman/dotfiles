@@ -1,6 +1,10 @@
 #!/bin/bash
-killall nwg-wrapper
-sleep 5
-nwg-wrapper -s wttr.sh -r 180000 -c wttr.css -p left -ml 20 -mt 20 -a start &
+killall -q nwg-wrapper
+
+while pgrep -u $UID -x nwg-wrapper >/dev/null; do sleep 1; done
+
+nwg-wrapper -s wttr.sh -r 300000 -c wttr.css -p left -ml 20 -mt 20 -a start &
+
 sleep 1
-nwg-wrapper -s todo.sh -r 18000 -c todo.css -p right -mr 20 -a start -mt 20 -j right & exit
+
+nwg-wrapper -s todo.sh -r 120000 -c todo.css -p right -mr 20 -a start -mt 20 -j right & exit
