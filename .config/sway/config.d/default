@@ -222,3 +222,7 @@ bindsym $mod+shift+d exec ~/Scripts/dm-conf
 # AUDIO RESTART
 
     bindsym $mod+Shift+a exec systemctl --user restart pipewire pipewire-pulse wireplumber && killall waybar && waybar &
+
+# NWG-WRAPPER
+
+    bindsym $mod+Shift+n exec /home/omk/Scripts/nwg-launch
