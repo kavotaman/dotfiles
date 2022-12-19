@@ -1,48 +1,48 @@
-sw_volume: 100
+sw_volume: 98
 audio_device_state:1:PipeWire Sound Server
 audio_device_state:1:my_fifo
-state: pause
-current: 10
-time: 54.337000
+state: stop
 random: 0
 repeat: 0
 single: 0
-consume: 0
+consume: 1
 crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Popular Music/BRASIL/00 MPB/Djavan/[1975] A Voz e o Violão/01 - Flor de Lis.mp3
-1:Popular Music/BRASIL/00 MPB/Djavan/[1975] A Voz e o Violão/02 - Na Boca do Beco.mp3
-2:Popular Music/BRASIL/00 MPB/Djavan/[1975] A Voz e o Violão/03 - Maçã do Rosto.mp3
-3:Popular Music/BRASIL/00 MPB/Djavan/[1975] A Voz e o Violão/04 - Pára-Raio.mp3
-4:Popular Music/BRASIL/00 MPB/Djavan/[1975] A Voz e o Violão/05 - E Que Deus Ajude.mp3
-5:Popular Music/BRASIL/00 MPB/Djavan/[1975] A Voz e o Violão/06 - Quantas Voltas Dá Meu Mundo.mp3
-6:Popular Music/BRASIL/00 MPB/Djavan/[1975] A Voz e o Violão/07 - Maria das Mercedes.mp3
-7:Popular Music/BRASIL/00 MPB/Djavan/[1975] A Voz e o Violão/08 - Muito Obrigado.mp3
-8:Popular Music/BRASIL/00 MPB/Djavan/[1975] A Voz e o Violão/09 - Embola a Bola (Cateretê).mp3
-9:Popular Music/BRASIL/00 MPB/Djavan/[1975] A Voz e o Violão/10 - Fato Consumado.mp3
-10:Popular Music/BRASIL/00 MPB/Djavan/[1975] A Voz e o Violão/11 - Magia.mp3
-11:Popular Music/BRASIL/00 MPB/Djavan/[1975] A Voz e o Violão/12 - Ventos do Norte.mp3
-12:Popular Music/BRASIL/00 MPB/Djavan/[1978] Djavan/01 - Cara De Índio.mp3
-13:Popular Music/BRASIL/00 MPB/Djavan/[1978] Djavan/02 - Serrado.mp3
-14:Popular Music/BRASIL/00 MPB/Djavan/[1978] Djavan/03 - Água.mp3
-15:Popular Music/BRASIL/00 MPB/Djavan/[1978] Djavan/04 - Álibi.mp3
-16:Popular Music/BRASIL/00 MPB/Djavan/[1978] Djavan/05 - Numa Esquina De Hanói.mp3
-17:Popular Music/BRASIL/00 MPB/Djavan/[1978] Djavan/06 - Minha Mãe.mp3
-18:Popular Music/BRASIL/00 MPB/Djavan/[1978] Djavan/07 - Alagoas.mp3
-19:Popular Music/BRASIL/00 MPB/Djavan/[1978] Djavan/08 - Estória De Cantador.mp3
-20:Popular Music/BRASIL/00 MPB/Djavan/[1978] Djavan/09 - Nereci.mp3
-21:Popular Music/BRASIL/00 MPB/Djavan/[1978] Djavan/10 - Samba Dobrado.mp3
-22:Popular Music/BRASIL/00 MPB/Djavan/[1978] Djavan/11 - Dupla Traição.mp3
-23:Popular Music/BRASIL/00 MPB/Djavan/[1981] Seduzir/01 - Pedro Brasil.mp3
-24:Popular Music/BRASIL/00 MPB/Djavan/[1981] Seduzir/02 - Seduzir.mp3
-25:Popular Music/BRASIL/00 MPB/Djavan/[1981] Seduzir/03 - Morena De Endoidecer.mp3
-26:Popular Music/BRASIL/00 MPB/Djavan/[1981] Seduzir/04 - Jogral.mp3
-27:Popular Music/BRASIL/00 MPB/Djavan/[1981] Seduzir/05 - A Ilha.mp3
-28:Popular Music/BRASIL/00 MPB/Djavan/[1981] Seduzir/06 - Faltando Um Pedaco.mp3
-29:Popular Music/BRASIL/00 MPB/Djavan/[1981] Seduzir/07 - Extase.mp3
-30:Popular Music/BRASIL/00 MPB/Djavan/[1981] Seduzir/08 - Luanda.mp3
-31:Popular Music/BRASIL/00 MPB/Djavan/[1981] Seduzir/09 - Toatal Abandono.mp3
-32:Popular Music/BRASIL/00 MPB/Djavan/[1981] Seduzir/10 - Nvula Ieza Kia - Humbiumbi (& Gilberto Gil).mp3
+0:Popular Music/INTERNATIONAL/Pink Floyd/[1970] Atom Heart Mother/01_Atom Heart Mother.mp3
+1:Popular Music/INTERNATIONAL/Pink Floyd/[1970] Atom Heart Mother/02_Father's Shout.mp3
+2:Popular Music/INTERNATIONAL/Pink Floyd/[1970] Atom Heart Mother/03_Breast Milky.mp3
+3:Popular Music/INTERNATIONAL/Pink Floyd/[1970] Atom Heart Mother/04_Mother Fore.mp3
+4:Popular Music/INTERNATIONAL/Pink Floyd/[1970] Atom Heart Mother/05_Funky Dung.mp3
+5:Popular Music/INTERNATIONAL/Pink Floyd/[1970] Atom Heart Mother/06_Mind Your Throats, Please.mp3
+6:Popular Music/INTERNATIONAL/Pink Floyd/[1970] Atom Heart Mother/07_Remergence.mp3
+7:Popular Music/INTERNATIONAL/Pink Floyd/[1970] Atom Heart Mother/08_If.mp3
+8:Popular Music/INTERNATIONAL/Pink Floyd/[1970] Atom Heart Mother/09_Summer '68.mp3
+9:Popular Music/INTERNATIONAL/Pink Floyd/[1970] Atom Heart Mother/10_Fat Old Sun.mp3
+10:Popular Music/INTERNATIONAL/Pink Floyd/[1970] Atom Heart Mother/11_Alan's Psychedelic Breakfast.mp3
+11:Popular Music/INTERNATIONAL/Pink Floyd/[1971] Meddle/01 - One Of These Days.mp3
+12:Popular Music/INTERNATIONAL/Pink Floyd/[1971] Meddle/02 - A Pillow Of Winds.mp3
+13:Popular Music/INTERNATIONAL/Pink Floyd/[1971] Meddle/03 - Fearless.mp3
+14:Popular Music/INTERNATIONAL/Pink Floyd/[1971] Meddle/04 - San Tropez.mp3
+15:Popular Music/INTERNATIONAL/Pink Floyd/[1971] Meddle/05 - Seamus.mp3
+16:Popular Music/INTERNATIONAL/Pink Floyd/[1971] Meddle/06 - Echoes.mp3
+17:Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/09 Saideira.mp3
+18:Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/10 Resposta.mp3
+19:Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/11 Te ver.mp3
+20:Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/12 Estare prendido en tus dedos.mp3
+21:Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/13 Tanto.mp3
+22:Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/14 Canção noturna.mp3
+23:Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/15 Ali.mp3
+24:Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/16 Garota nacional.mp3
+25:Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/17 É proibido fumar.mp3
+26:FLAC/Thelonious Monk/[1968] Underground/02 - Ugly Beauty (Take 5).flac
+27:FLAC/Thelonious Monk/[1968] Underground/03 - Raise Four.flac
+28:FLAC/Thelonious Monk/[1968] Underground/04 - Boo Boo's Birthday (Take 11).flac
+29:FLAC/Thelonious Monk/[1968] Underground/05 - Easy Street.flac
+30:FLAC/Thelonious Monk/[1968] Underground/06 - Green Chimneys.flac
+31:FLAC/Thelonious Monk/[1968] Underground/07 - In Walked Bud.flac
+32:FLAC/Thelonious Monk/[1968] Underground/08 - Ugly Beauty (Take 4).flac
+33:FLAC/Thelonious Monk/[1968] Underground/09 - Boo Boo's Birthday (Take 2).flac
+34:FLAC/Thelonious Monk/[1968] Underground/10 - Thelonious (Take 3).flac
 playlist_end

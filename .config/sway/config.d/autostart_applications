@@ -42,4 +42,8 @@ exec sleep 3 && insync start --qt-qpa-platform=xcb &
 # exec nwg-wrapper -s wttr.sh -r 300000 -c wttr.css -p left -ml 20 -mt 20 -a start -sq 31
 # exec nwg-wrapper -s timezones.sh -r 1000 -c timezones.css -p right -mr 50 -a start -mt 50 -j right -sq 31
 
-exec /home/omk/Scripts/nwg-launch
+# exec_always /home/omk/Scripts/nwg-launch
+
+exec_always nwg-wrapper -s wttr.sh -r 300000 -c wttr.css -p left -ml 20 -mt 20 -sq 31 -a start
+
+exec_always nwg-wrapper -s timezones.sh -r 1000 -c timezones.css -p right -mr 50 -a start -mt 50 -j right -sq 31
