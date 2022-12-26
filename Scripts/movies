@@ -24,6 +24,12 @@ echo rating
 
 read rating
 
-printf "<tr>\n  <td class=\"title\">$title</td>\n  <td class=\"year\">$year</td>\n  <td class=\"country\">$country</td>\n  <td class=\"genre\">$genre</td>\n  <td class=\"director\">$director</td>\n  <td class=\"rating\">$rating</td>\n</tr>" | wl-copy
+# printf "<tr>\n  <td class=\"title\">$title</td>\n  <td class=\"year\">$year</td>\n  <td class=\"country\">$country</td>\n  <td class=\"genre\">$genre</td>\n  <td class=\"director\">$director</td>\n  <td class=\"rating\">$rating</td>\n</tr>" | wl-copy
 
 # printf "<tr>\n  <td class=\"title\">$title</td>\n  <td class=\"year\">$year</td>\n  <td class=\"country\">$country</td>\n  <td class=\"genre\">$genre</td>\n  <td class=\"director\">$director</td>\n  <td class=\"rating\">$rating</td>\n</tr>" | xclip -selection clipboard
+
+cd /home/omk/Insync/otaviokavakama@gmail.com/Google\ Drive/WEBSITE/kavotaman.github.io/
+
+cp movies.md movies.md.bak
+
+sed  "/MARK111/i <tr>\n  <td class=\"title\">$title</td>\n  <td class=\"year\">$year</td>\n  <td class=\"country\">$country</td>\n  <td class=\"genre\">$genre</td>\n  <td class=\"director\">$director</td>\n  <td class=\"rating\">$rating</td>\n</tr>" movies.md > tmp && cp tmp movies.md
