@@ -18,7 +18,7 @@ input type:keyboard {
 input "1133:16465:Logitech_M510" {
     natural_scroll enabled
     accel_profile "flat" # disable mouse acceleration (enabled by default; to set it manually, use "adaptive" instead of "flat")
-    pointer_accel 0.1 # set mouse sensitivity (between -1 and 1)
+    pointer_accel -0.1 # set mouse sensitivity (between -1 and 1)
 }
 
 input * xkb_numlock enable

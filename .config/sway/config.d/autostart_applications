@@ -22,6 +22,8 @@ exec_always swaybg -i /home/omk/Pictures/WP/at1.jpg
 # MPD
 exec mpd &
 
+# MULLVAD
+exec sleep 2 && mullvad-vpn &
 
 # Welcome App
 # exec dex -a -s /etc/xdg/autostart/:~/.config/autostart/  
