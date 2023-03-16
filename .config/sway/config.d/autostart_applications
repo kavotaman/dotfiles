@@ -36,7 +36,13 @@ exec sleep 2 && mullvad-vpn &
 # INSYNC
 exec sleep 3 && insync start --qt-qpa-platform=xcb &
 
+# SYNCTHING
+
+exec sleep 4 && syncthing &
+
 #exec_always libinput-gestures-setup start &
+
+
 #exec wl-paste -t text --watch clipman store --no-persist
 
 # NWG-WRAPPER (conky)

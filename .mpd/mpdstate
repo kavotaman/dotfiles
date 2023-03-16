@@ -2,8 +2,8 @@ sw_volume: 96
 audio_device_state:1:PipeWire Sound Server
 audio_device_state:1:my_fifo
 state: pause
-current: 65
-time: 98.444000
+current: 20
+time: 210.655000
 random: 1
 repeat: 0
 single: 0
@@ -12,125 +12,39 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Popular Music/BRASIL/André Abujamra/[2010] Mafaro/05 - Uma a Uma.mp3
-1:FLAC/Clube da Esquina/[1972] Clube da Esquina (flac)/10 Estrelas.mp3
-2:FLAC/Clube da Esquina/[1972] Clube da Esquina (flac)/11 Clube da Esquina № 2.mp3
-3:FLAC/Clube da Esquina/[1972] Clube da Esquina (flac)/12 Paisagem da janela.mp3
-4:Popular Music/BRASIL/00 MPB/Novos Baianos/[1972] Acabou Chorare/03 Tinindo Trincando.mp3
-5:Popular Music/BRASIL/00 MPB/Os Mutantes/[1968] Os Mutantes/03 - O Relógio.mp3
-6:Popular Music/BRASIL/00 MPB/Os Mutantes/[1968] Os Mutantes/05 - Baby.mp3
-7:Popular Music/BRASIL/00 MPB/Secos & Molhados/[1973] Secos & Molhados/10 - Prece Cósmica.mp3
-8:Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/02 Esmola.mp3
-9:Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/12 Estare prendido en tus dedos.mp3
-10:Popular Music/BRASIL/Skolta 121/01 Brasil Global.mp3
-11:Popular Music/BRASIL/Skolta 121/02 O que eu realmente aprendi na escola.mp3
-12:Popular Music/BRASIL/Skolta 121/03 País do futuro.mp3
-13:Popular Music/BRASIL/Skolta 121/04 Guerra civil.mp3
-14:Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/01 Águas de Março (Waters of March).mp3
-15:Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/02 Pois É [So It Is].mp3
-16:Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/03 Só Tinha de Ser Com Você [It Had to Be with You].mp3
-17:Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/04 Modinha.mp3
-18:Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/05 Triste [Sad].mp3
-19:Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/09 Brigas, Nunca Mais [Fights Never More].mp3
-20:Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/10 Por Toda a Minha Vida.mp3
-21:Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/11 Fotografia [Photograph].mp3
-22:Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/12 Soneto de Separacão (Song of Separation).mp3
-23:Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/14 Inütil Paisagem (Useless Landscape).mp3
-24:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/01 Wave (Vou Te Contar).mp3
-25:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/02 Chega de Saudade.mp3
-26:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/04 Samba do Avião.mp3
-27:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/05 Garota de Ipanema.mp3
-28:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/06 Retrato em Branco e Preto.mp3
-29:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/07 Modinha (Seresta nº 5).mp3
-30:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/09 Canta, Canta Mais.mp3
-31:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/10 Eu Não Existo Sem Você.mp3
-32:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/12 Sucedeu Assim.mp3
-33:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/01 Imagina.mp3
-34:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/02 Eu Sei Que Vou Te Amar.mp3
-35:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/03 Canção do Amor Demais.mp3
-36:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/05 Inútil Paisagem.mp3
-37:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/06 Derradeira Primavera.mp3
-38:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/07 Canção em Modo Menor.mp3
-39:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/09 Águas de Março.mp3
-40:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/10 Samba de Uma Nota Só.mp3
-41:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/11 Desafinado.mp3
-42:Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/12 A Felicidade.mp3
-43:Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/01 - Santa Morena.mp3
-44:Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/02 - Aguenta seu Fulgêncio.mp3
-45:Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/03 - Guerreiro.mp3
-46:Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/04 - Danza de la vida breve.mp3
-47:Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/06 - Loro.mp3
-48:Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/07 - Corrupião.mp3
-49:Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/08 - As vitrines.mp3
-50:Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/09 - Labirinto.mp3
-51:Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/12 - Batuque.mp3
-52:Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/14 - Um a zero.mp3
-53:Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/01 - Miserere Nóbis.mp3
-54:Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/02 - Coracão Materno.mp3
-55:Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/03 - Panis Et Circenses.mp3
-56:Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/05 - Parque Industrial.mp3
-57:Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/06 - Geléia Geral.mp3
-58:Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/07 - Baby.mp3
-59:Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/11 - Bat Macumba.mp3
-60:Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/12 - Hino Do Senhor Do Bonfim.mp3
-61:Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/1. Zé da Velha, Silvério Pontes, Yamandu Costa, Trio Madeira Brasil, Henrique Cazes, Beto Cazes e Netinho - Machucando.mp3
-62:Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/5. Trio Madeira Brasil e Marcos Suzano - Assanhado.mp3
-63:Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/6. Paulo Moura, Zé da Velha, Silvério Pontes, Carlinhos 7 Cordas, Paulinho Black, Laudir de Oliveira, Márcio Almeida e Daniela Spielman - Chorinho Pra Você.mp3
-64:Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/7. Zé da Velha, Silvério Pontes, Éverson Moraes, Aquiles Moraes, Trio Madeira Brasil, Henrique Cazes, Beto Cazes e Netinho - O Bom Filho A Casa Torna.mp3
-65:Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/8. Zezé Gonzaga, Trio Madeira Brasil, Rui Alvim, Henrique Cazes, Beto Cazes e Netinho - Falando de Amor.mp3
-66:Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/9. Paulo Moura, Zé da Velha, Silvério Pontes, Carlinhos 7 Cordas, Márcio Almeida, Laudir de Oliveira e Paulinho Black - Chorinho de Gafieira.mp3
-67:Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/10. Trio Madeira Brasil - Agüenta Seu Fulgêncio.mp3
-68:Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/12. Maurício Carrilho, Luciana Rabello, Cristóvão Bastos, Marcelo Bernardes, Pedro Paes e Rui Alvim - Papo de Anjo.mp3
-69:Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/13. Marcello Gonçalves & Yamandú Costa - Formosa.mp3
-70:Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/14. Zé da Velha, Silvério Pontes, Trio Madeira Brasil, Henrique Cazes, Jorginho do Pandeiro, Celsinho Silva, Marcos Suzano, Beto Cazes e Netinho - Bole Bole.mp3
-71:Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/16. Zezé Gonzaga, Teresa Cristina, Trio Madeira Brasil, Yamandu Costa, Zé da Velha, Silvério Pontes, Rui Alvim, Joel ...inhos Leite, Henrique Cazes, Beto Cazes, Netinho, Jorginho do Pandeiro, Celsinho Silva e Marcos Suzano - Barracão.mp3
-72:Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/17. Trio Madeira Brasil, Rui Alvim, Beto Cazes e Henrique Cazes - Choro da Bisa.mp3
-73:Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/18. Teresa Cristina & Grupo Semente - Foi Uma Pedra Que Rolou.mp3
-74:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/01 - Água de Beber.mp3
-75:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/04 - Só Tinha de Ser Com Você.mp3
-76:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/05 - A Felicidade.mp3
-77:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/06 - Pot Pourri_ Eu e Meu Amor_ Lamento No Morro.mp3
-78:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/07 - Falando de Amor.mp3
-79:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/08 - A Correnteza.mp3
-80:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/09 - O Boto.mp3
-81:Popular Music/BRASIL/00 MPB/[1999] Quarteto Jobim Morelenbaum/13 - Águas de Março.mp3
-82:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/02 - Está Chegando A Hora.mp3
-83:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/03 - Vesti Azul.mp3
-84:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/05 - Bim Bom.mp3
-85:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/07 - Procissão.mp3
-86:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/08 - Samba Da Bênção.mp3
-87:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/09 - Carolina.mp3
-88:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/10 - Alegría, Alegría.mp3
-89:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/11 - O Caderninho.mp3
-90:Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/12 - Travessia.mp3
-91:Popular Music/BRASIL/00 MPB/[1975] Ogum Xango/01 - Meu Glorioso Sao Cristovao.mp3
-92:Popular Music/BRASIL/00 MPB/[1975] Ogum Xango/02 - Nega (Photograph Blues).mp3
-93:Popular Music/BRASIL/00 MPB/[1975] Ogum Xango/03 - Jurubeba.mp3
-94:Popular Music/BRASIL/00 MPB/[1975] Ogum Xango/05 - Taj Mahal.mp3
-95:Popular Music/BRASIL/00 MPB/[1975] Ogum Xango/06 - Morre O Burro, Fica O Homem.mp3
-96:Popular Music/BRASIL/00 MPB/[1975] Ogum Xango/07 - Essa E Pra Tocar No Radio.mp3
-97:Popular Music/BRASIL/00 MPB/[1975] Ogum Xango/08 - Filhos De Gandhi.mp3
-98:Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/01 feijoada completa.mp3
-99:Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/02 cálice.mp3
-100:Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/03 trocando em miúdos.mp3
-101:Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/04 o meu amor.mp3
-102:Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/05 homenagem ao malandro.mp3
-103:Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/06 até o fim.mp3
-104:Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/07 pedaço de mim.mp3
-105:Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/09 pequeña serenata diurna.mp3
-106:Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/10 tanto mar.mp3
-107:Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/11 apesar de você.mp3
-108:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/01 01. Sozinho (A Vivo).mp3
-109:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/02 02. Sampa.mp3
-110:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/04 04. Qualquer Coisa.mp3
-111:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/05 05. Com que Roupa.mp3
-112:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/06 06. Queixa.mp3
-113:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/07 07. Terra.mp3
-114:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/09 09. Outras Palavras.mp3
-115:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/10 10. London, London.mp3
-116:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/11 11. Chega de Saudade.mp3
-117:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/12 12. Nao Enche.mp3
-118:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/14 14. Você Nao Entende Nada Cotidia.mp3
-119:Popular Music/METAL/Bruce Dickinson/2001[C] - The Best of Bruce Dickinson/CD 2/02-01-Bring Your Daughter...... To The Slaughter (Original Version).mp3
-120:Popular Music/METAL/Bruce Dickinson/2001[C] - The Best of Bruce Dickinson/CD 2/02-03-Wicker Man (1997 Recording).mp3
+0:Popular Music/METAL/Gamma Ray/1990 - Heading For Tomorrow/03 - Heaven Can Wait.mp3
+1:Popular Music/METAL/Gamma Ray/1990 - Heading For Tomorrow/06 - The Silence.mp3
+2:Popular Music/METAL/Gamma Ray/1990 - Heading For Tomorrow/07 - Hold Your Ground.mp3
+3:Popular Music/METAL/Gamma Ray/1990 - Heading For Tomorrow/08 - Free Time.mp3
+4:Popular Music/METAL/Gamma Ray/1990 - Heading For Tomorrow/09 - Heading For Tomorrow.mp3
+5:Popular Music/METAL/Gamma Ray/1990 - Heading For Tomorrow/10 - Look At Yourself.mp3
+6:Popular Music/METAL/Gamma Ray/1995 - Land of the Free/02 - Gamma Ray - Man On A Mission.mp3
+7:Popular Music/METAL/Gamma Ray/1995 - Land of the Free/03 - Gamma Ray - Fairytale.mp3
+8:Popular Music/METAL/Gamma Ray/1995 - Land of the Free/05 - Gamma Ray - Rising Of The Damned.mp3
+9:Popular Music/METAL/Gamma Ray/1995 - Land of the Free/07 - Gamma Ray - Farewell.mp3
+10:Popular Music/METAL/Gamma Ray/1995 - Land of the Free/09 - Gamma Ray - Land Of The Free.mp3
+11:Popular Music/METAL/Gamma Ray/1995 - Land of the Free/12 - Gamma Ray - Time To Break Free.mp3
+12:Popular Music/METAL/Gamma Ray/1995 - Land of the Free/13 - Gamma Ray - Afterlife.mp3
+13:Popular Music/METAL/Gamma Ray/1999 - Power Plant/Strangers In The Night.mp3
+14:Popular Music/METAL/Gamma Ray/1999 - Power Plant/Gardens Of The Sinner.mp3
+15:Popular Music/METAL/Gamma Ray/1999 - Power Plant/It's A Sin.mp3
+16:Popular Music/METAL/Gamma Ray/1999 - Power Plant/Heavy Metal Universe.mp3
+17:Popular Music/METAL/Gamma Ray/1999 - Power Plant/Hand Of Fate.mp3
+18:Popular Music/METAL/Gamma Ray/2001 - No World Order!/05 - New World Order.mp3
+19:Popular Music/METAL/Gamma Ray/2001 - No World Order!/06 - Damn The Machine.mp3
+20:Popular Music/METAL/Gamma Ray/2001 - No World Order!/08 - Fire Below.mp3
+21:Popular Music/METAL/Gamma Ray/2001 - No World Order!/10 - Eagle.mp3
+22:Popular Music/METAL/Gamma Ray/2001 - No World Order!/11 - Lake Of Tears.mp3
+23:Popular Music/METAL/Gamma Ray/1993 - Insanity & Genius (Remastered)/02 - No Return.mp3
+24:Popular Music/METAL/Gamma Ray/1993 - Insanity & Genius (Remastered)/03 - Last Before the Storm.mp3
+25:Popular Music/METAL/Gamma Ray/1993 - Insanity & Genius (Remastered)/04 - The Cave Principle.mp3
+26:Popular Music/METAL/Gamma Ray/1993 - Insanity & Genius (Remastered)/05 - Future Madhouse.mp3
+27:Popular Music/METAL/Gamma Ray/2003[L] - Skeletons in the Closet/gamma ray - 2003 skeletons in the closet - 202 Heart of the Unicorn.mp3
+28:Popular Music/METAL/Gamma Ray/2003[L] - Skeletons in the Closet/gamma ray - 2003 skeletons in the closet - 204 Victim of Fate.mp3
+29:Popular Music/METAL/Gamma Ray/2003[L] - Skeletons in the Closet/gamma ray - 2003 skeletons in the closet - 206 The Silence.mp3
+30:Popular Music/METAL/Gamma Ray/2003[L] - Skeletons in the Closet/gamma ray - 2003 skeletons in the closet - 207 Heaven or Hell.mp3
+31:Popular Music/METAL/Gamma Ray/2003[L] - Skeletons in the Closet/gamma ray - 2003 skeletons in the closet - 210 Hidden Track.mp3
+32:Popular Music/METAL/Gamma Ray/2005 - Majestic/03 Strange World.mp3
+33:Popular Music/METAL/Gamma Ray/2005 - Majestic/04 Hell Is Thy Home.mp3
+34:Popular Music/METAL/Gamma Ray/2005 - Majestic/07 Spiritual Dictator.mp3
 playlist_end

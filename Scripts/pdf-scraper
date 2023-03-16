@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mech-dump --links https://classicalguitarshed.com/free-guitar-sheet-music/ |
+grep -i '\.pdf$' |
+xargs wget -n1
