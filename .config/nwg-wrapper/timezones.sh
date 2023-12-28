@@ -11,7 +11,7 @@ echo '<span size="large" face="monospace" foreground="#ccc">'
 time=$(TZ='Australia/Brisbane' date +"%H:%M")
 echo 'To              <b>'$time'</b>'
 
-time=$(TZ='Asia/Jakarta' date +"%H:%M")
+time=$(TZ='Europe/Rome' date +"%H:%M")
 echo 'Ri	<b>'$time'</b>'
 
 time=$(TZ='America/Sao_Paulo' date +"%H:%M")
