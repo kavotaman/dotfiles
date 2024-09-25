@@ -23,7 +23,9 @@ exec swayidle -w\
     timeout 1070000000000000000 'swaylock -f -C ~/.config/swaylock/config'\
     timeout 7700000000000000000 'swaymsg "output * dpms off"' \
     resume 'swaymsg "output * dpms on"' \
-    before-sleep 'swaylock -C ~/.config/swaylock/config'
+    before-sleep 'swaylock -C ~/.config/swaylock/config' \
+    after-resume 'sleep 1 && nwg-wrapper -s timezones.sh -r 1000 -c timezones.css -p right -a start -mr 50 -mt 50 -j right & sleep 2 && nwg-wrapper -s wttr.sh -r 100000 -c wttr.css -p left -a start -ml 20 -mt 20 &'
+    # unlock 'nwg-wrapper -s wttr.sh -r 300000 -c wttr.css -p left -a start -ml 20 -mt 20 &'
 # This will lock your screen after 300 seconds of inactivity, then turn off
 # your displays after another 300 seconds, and turn your screens back on when
 # resumed. It will also lock your screen before your computer goes to sleep.
@@ -48,8 +50,7 @@ exec swayidle -w\
     bindsym $mod+d exec $menu
 
     # Activities
-    bindsym $mod+p exec ~/.config/wofi/windows.py
-
+#    bindsym $mod+p exec ~/.config/wofi/windows.py
     # Drag floating windows by holding down $mod and left mouse button.
     # Resize them with right mouse button + $mod.
     # Despite the name, also works for non-floating windows.
@@ -121,9 +122,9 @@ exec swayidle -w\
     #bindsym $mod+v splitv
 
     # Switch the current container between different layout styles
-    bindsym $mod+s layout stacking
-    bindsym $mod+o layout tabbed
-    bindsym $mod+n layout toggle split
+    # bindsym $mod+s layout stacking
+    # bindsym $mod+o layout tabbed
+    # bindsym $mod+n layout toggle split
 
     # Make the current focus fullscreen
     bindsym $mod+f fullscreen
@@ -212,9 +213,11 @@ bindsym $mod+shift+d exec ~/Scripts/dm-conf
     bindsym $mod+c exec galculator
 #
 # Screenshots
+    bindsym $mod+p exec grim -g "$(slurp)"
+
 #
-    bindsym print exec /usr/share/sway/scripts/grimshot --notify save output
-    bindsym Shift+print exec ~/.config/sway/scripts/screenshot.sh
+#    bindsym print exec /usr/share/sway/scripts/grimshot --notify save output
+#    bindsym Shift+print exec ~/.config/sway/scripts/screenshot.sh
 #
 # Keybindings List
 #
@@ -226,4 +229,4 @@ bindsym $mod+shift+d exec ~/Scripts/dm-conf
 
 # NWG-WRAPPER
 
-    bindsym $mod+Shift+n exec /home/omk/Scripts/nwg-launch
+    # bindsym $mod+o exec bash /home/omk/Scripts/nwg-startup &

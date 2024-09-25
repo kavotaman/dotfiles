@@ -1,4 +1,3 @@
-
 #!/bin/bash
 #simple Shellscript for waybar/i3blocks/polybar on Pinebook pro
 #05012020 geri123@gmx.net Gerhard S.
@@ -17,5 +16,3 @@ case $((
        (4) echo $STATUS:"":$PERCENT%;;
        (5) echo $STATUS:"":$PERCENT%;;
 esac
-
-

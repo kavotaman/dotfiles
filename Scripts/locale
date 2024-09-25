@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo city
+read city
+
+sed -i "s/^locale=[A-Za-z0-9_]*/locale=$city/g" /home/omk/.config/nwg-wrapper/wttr.sh

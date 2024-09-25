@@ -1,0 +1,14 @@
+#!/bin/bash
+
+while true  
+do
+  pkill -f -31 nwg-wrapper
+# while pgrep -u $UID -x nwg-wrapper >/dev/null; do sleep 1; done
+  while kill -0 nwg-wrapper 2>/dev/null; do sleep 1; done
+# pkill nwg-wrapper && while pgrep -l nwg-wrapper; do sleep 1;done;
+  nwg-wrapper -s wttr.sh -r 300000 -c wttr.css -p left -a start -ml 20 -mt 20 &
+  # nwg-wrapper -s timezones.sh -r 1000 -c timezones.css -p right -mr 50 -a start -mt 50 -j right -sq 31 & exit
+  nwg-wrapper -s timezones.sh -r 1000 -c timezones.css -p right -a start -mr 50 -mt 50 -j right &
+  sleep 200  
+done
+

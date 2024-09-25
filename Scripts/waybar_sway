@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exec waybar -c /home/omk/.config/waybar/config_sway -s /home/omk/.config/waybar/style_sway.css &

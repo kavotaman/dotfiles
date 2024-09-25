@@ -1,12 +1,6 @@
 #!/usr/bin/env bash
 
-todo=$(cat /home/omk/Documents/todo.txt)
-wttr2=$(curl wttr.in/43402?format="%C+%t++%f\n")
-wttr3=$(curl wttr.in/43402?format="++%w+++%P\n")
-wttr4=$(curl wttr.in/43402?format="懲+%h++爫+%p\n")
-
-echo '<span size="25000" foreground="#ccc">'$wttr2'</span><span size="20000" foreground="#ccc">'
-echo $wttr3'</span><span size="18000" foreground="#ccc">'
-echo $wttr4'</span><span size="11500" foreground="#ccc">'
-echo -en '\n'
-echo "$todo"'</span>'
+time=$(LC_ALL=C TZ='Europe/Warsaw' date +'%A, %d. %B')
+wttr=$(curl https://wttr.in/?format=1)
+echo '<span size="35000" foreground="#998000">'$time'</span><span size="30000" foreground="#ccc">'
+echo $wttr'</span>'

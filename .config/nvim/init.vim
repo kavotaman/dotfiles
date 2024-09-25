@@ -33,6 +33,11 @@ syntax enable
 colorscheme default
 set notermguicolors
 highlight Search ctermfg=0
+" Make background transparent
+highlight Normal guibg=none
+highlight NonText guibg=none
+highlight Normal ctermbg=none
+highlight NonText ctermbg=none
 
 let g:coc_node_path = '/home/omk/.nvm/versions/node/v18.10.0/bin/node'
 let g:vim_markdown_frontmatter = 1

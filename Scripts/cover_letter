@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo category
+
+read category
+
+TODAY1=$(date +%F)
+
+wkhtmltopdf -s letter -B 4 -L 4 -R 4 -T 4 http://127.0.0.1:4000/cover_letter/ /home/omk/Insync/otaviokavakama@gmail.com/Google\ Drive/CV\ RESUME/Otavio_Manzano_Kavakama_cover_letter_$category\_$TODAY1.pdf
+# wkhtmltopdf -s letter --footer-font-size 10 --footer-left 'Otavio Manzano Kavakama - cellist' --footer-right [page]/[topage] --footer-line http://127.0.0.1:4000/resume/ /home/omk/Insync/otaviokavakama@gmail.com/Google\ Drive/CV\ RESUME/Otavio_Manzano_Kavakama_resume_$TODAY1.pdf
+
+# wkhtmltopdf -s letter --footer-font-size 10 --footer-left 'Otavio Manzano Kavakama - cellist' --footer-right [page]/[topage] --footer-line https://otaviomk.com/cv_pdf/ /home/omk/Insync/otaviokavakama@gmail.com/Google\ Drive/DMA\ BGSU\ 2019-/PORTFOLIO/Otavio_Manzano_Kavakama_CV_$TODAY1.pdf

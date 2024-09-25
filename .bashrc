@@ -4,10 +4,12 @@
 
 [[ $- == *i* ]] && source ~/.local/share/blesh/ble.sh --noattach
 
+
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
 [[ -f ~/.welcome_screen ]] && . ~/.welcome_screen
+
 
 _set_liveuser_PS1() {
     PS1='[\u@\h \W]\$ '
@@ -32,7 +34,12 @@ ShowInstallerIsoInfo() {
     fi
 }
 
+# export http_proxy=192.168.49.1:8000
+# export https_proxy=192.168.49.1:8000
+
 export PATH="$HOME/Scripts:$PATH"
+
+export PS1="\[\e[31m\][\[\e[m\]\[\e[38;5;172m\]\u\[\e[m\]@\[\e[38;5;153m\]\h\[\e[m\] \[\e[38;5;214m\]\W\[\e[m\]\[\e[31m\]]\[\e[m\]\\$ "
 
 # EDITOR
 
@@ -130,6 +137,11 @@ export PATH="$HOME/gems/bin:$PATH"
 export GEM_HOME="$(ruby -e 'puts Gem.user_dir')"
 export PATH="$PATH:$GEM_HOME/bin"
 
+fortune ~/fortunes/omk | cowsay
+
 # Add this line at the end of .bashrc:
 [[ ${BLE_VERSION-} ]] && ble-attach
 
+# QT themes KDE apps
+# export XDG_CURRENT_DESKTOP=KDE
+export QT_QPA_PLATFORMTHEME=qt5ct

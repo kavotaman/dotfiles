@@ -1,10 +1,10 @@
-sw_volume: 90
+sw_volume: 100
 audio_device_state:1:PipeWire Sound Server
 audio_device_state:1:my_fifo
 state: pause
-current: 0
-time: 174.441000
-random: 0
+current: 13
+time: 175.012000
+random: 1
 repeat: 0
 single: 0
 consume: 1
@@ -12,16 +12,101 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Popular Music/METAL/Avantasia/2001 - The Metal Opera/02 - Reach Out for the Light.mp3
-1:Popular Music/METAL/Avantasia/2001 - The Metal Opera/03 - Serpents in Paradise.mp3
-2:Popular Music/METAL/Avantasia/2001 - The Metal Opera/04 - Malleus Maleficarum.mp3
-3:Popular Music/METAL/Avantasia/2001 - The Metal Opera/05 - Breaking Away.mp3
-4:Popular Music/METAL/Avantasia/2001 - The Metal Opera/06 - Farewell.mp3
-5:Popular Music/METAL/Avantasia/2001 - The Metal Opera/07 - The Glory of Rome.mp3
-6:Popular Music/METAL/Avantasia/2001 - The Metal Opera/08 - In Nomine Patris.mp3
-7:Popular Music/METAL/Avantasia/2001 - The Metal Opera/09 - Avantasia.mp3
-8:Popular Music/METAL/Avantasia/2001 - The Metal Opera/10 - A New Dimension.mp3
-9:Popular Music/METAL/Avantasia/2001 - The Metal Opera/11 - Inside.mp3
-10:Popular Music/METAL/Avantasia/2001 - The Metal Opera/12 - Sign of the Cross.mp3
-11:Popular Music/METAL/Avantasia/2001 - The Metal Opera/13 - The Tower.mp3
+0:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 02 - Conqueror.mp3
+1:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 03 - Running With the Wolves.mp3
+2:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 05 - Winter Bird.mp3
+3:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 07 - Through the Eyes of a Child.mp3
+4:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 09 - Murder Song (5, 4, 3, 2, 1).mp3
+5:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 11 - Under the Water.mp3
+6:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 12 - Black Water Lilies.mp3
+7:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 15 - Nature Boy (acoustic).mp3
+8:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 17 - Running With the Wolves (Pablo Nouvelle remix).mp3
+9:Popular Music/INTERNATIONAL/AURORA/[2018]  Infections of a Different Kind (Step I)/01-aurora-queendom-4d13850c.mp3
+10:Popular Music/INTERNATIONAL/AURORA/[2018]  Infections of a Different Kind (Step I)/02-aurora-forgotten_love-6d9cf831.mp3
+11:Popular Music/INTERNATIONAL/AURORA/[2018]  Infections of a Different Kind (Step I)/04-aurora-all_is_soft_inside-55739bfb.mp3
+12:Popular Music/INTERNATIONAL/AURORA/[2018]  Infections of a Different Kind (Step I)/06-aurora-churchyard-afd32c18.mp3
+13:Popular Music/INTERNATIONAL/AURORA/[2018]  Infections of a Different Kind (Step I)/07-aurora-soft_universe-f6a84fa5.mp3
+14:Popular Music/INTERNATIONAL/AURORA/[2018]  Infections of a Different Kind (Step I)/08-aurora-infections_of_a_different_kind-39f1b449.mp3
+15:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 01 - The River.mp3
+16:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 02 - Animal.mp3
+17:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 03 - Dance on the Moon.mp3
+18:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 05 - Hunger.mp3
+19:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 07 - In Bottles.mp3
+20:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 08 - A Different Kind of Human.mp3
+21:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 10 - The Seed.mp3
+22:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 01 - The Forbidden Fruits of Eden.mp3
+23:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 03 - Giving in to the Love.mp3
+24:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 04 - Cure for Me.mp3
+25:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 05 - You Keep Me Crawling.mp3
+26:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 06 - Exist for Love.mp3
+27:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 07 - Heathens.mp3
+28:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 08 - The Innocent.mp3
+29:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 09 - Exhale Inhale.mp3
+30:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 10 - A Temporary High.mp3
+31:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 12 - Artemis.mp3
+32:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 13 - Blood in the Wine.mp3
+33:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 15 - A Little Place Called the Moon.mp3
+34:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/01. Echo Of My Shadow.mp3
+35:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/02. To Be Alright.mp3
+36:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/05. Some Type Of Skin.mp3
+37:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/06. The Essence.mp3
+38:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/08. When The Dark Dresses Lightly.mp3
+39:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/09. A Soul With No King.mp3
+40:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/10. Dreams.mp3
+41:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/11. My Name.mp3
+42:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/14. The Blade.mp3
+43:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/15. My Body Is Not Mine.mp3
+44:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/16. Invisible Wounds.mp3
+45:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 02 - Conqueror.mp3
+46:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 03 - Running With the Wolves.mp3
+47:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 04 - Lucky.mp3
+48:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 05 - Winter Bird.mp3
+49:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 06 - I Went Too Far.mp3
+50:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 08 - Warrior.mp3
+51:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 09 - Murder Song (5, 4, 3, 2, 1).mp3
+52:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 10 - Home.mp3
+53:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 12 - Black Water Lilies.mp3
+54:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 16 - Wisdom Cries.mp3
+55:Popular Music/INTERNATIONAL/AURORA/[2016] All My Demons Greeting Me as a Friend/AURORA - All My Demons Greeting Me as a Friend - 17 - Running With the Wolves (Pablo Nouvelle remix).mp3
+56:Popular Music/INTERNATIONAL/AURORA/[2018]  Infections of a Different Kind (Step I)/02-aurora-forgotten_love-6d9cf831.mp3
+57:Popular Music/INTERNATIONAL/AURORA/[2018]  Infections of a Different Kind (Step I)/03-aurora-gentle_earthquakes-c9bc0216.mp3
+58:Popular Music/INTERNATIONAL/AURORA/[2018]  Infections of a Different Kind (Step I)/04-aurora-all_is_soft_inside-55739bfb.mp3
+59:Popular Music/INTERNATIONAL/AURORA/[2018]  Infections of a Different Kind (Step I)/06-aurora-churchyard-afd32c18.mp3
+60:Popular Music/INTERNATIONAL/AURORA/[2018]  Infections of a Different Kind (Step I)/07-aurora-soft_universe-f6a84fa5.mp3
+61:Popular Music/INTERNATIONAL/AURORA/[2018]  Infections of a Different Kind (Step I)/08-aurora-infections_of_a_different_kind-39f1b449.mp3
+62:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 02 - Animal.mp3
+63:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 03 - Dance on the Moon.mp3
+64:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 04 - Daydreamer.mp3
+65:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 05 - Hunger.mp3
+66:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 06 - Soulless Creatures.mp3
+67:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 08 - A Different Kind of Human.mp3
+68:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 09 - Apple Tree.mp3
+69:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 10 - The Seed.mp3
+70:Popular Music/INTERNATIONAL/AURORA/[2019]  A Different Kind of Human (Step II)/AURORA - A Different Kind of Human (Step II) - 11 - Mothership.mp3
+71:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 02 - Everything Matters.mp3
+72:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 03 - Giving in to the Love.mp3
+73:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 04 - Cure for Me.mp3
+74:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 05 - You Keep Me Crawling.mp3
+75:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 07 - Heathens.mp3
+76:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 08 - The Innocent.mp3
+77:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 10 - A Temporary High.mp3
+78:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 11 - A Dangerous Thing.mp3
+79:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 12 - Artemis.mp3
+80:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 13 - Blood in the Wine.mp3
+81:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 14 - This Could Be a Dream.mp3
+82:Popular Music/INTERNATIONAL/AURORA/[2022] The Gods We Can Touch/AURORA - The Gods We Can Touch - 15 - A Little Place Called the Moon.mp3
+83:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/01. Echo Of My Shadow.mp3
+84:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/03. Your Blood.mp3
+85:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/04. The Conflict Of The Mind.mp3
+86:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/05. Some Type Of Skin.mp3
+87:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/06. The Essence.mp3
+88:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/07. Earthly Delights.mp3
+89:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/08. When The Dark Dresses Lightly.mp3
+90:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/09. A Soul With No King.mp3
+91:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/11. My Name.mp3
+92:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/12. Do You Feel.mp3
+93:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/13. Starvation.mp3
+94:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/14. The Blade.mp3
+95:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/15. My Body Is Not Mine.mp3
+96:Popular Music/INTERNATIONAL/AURORA/[2024] What Happened To The Heart/16. Invisible Wounds.mp3
 playlist_end
