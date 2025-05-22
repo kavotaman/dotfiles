@@ -1,6 +1,6 @@
 #!/bin/bash
 
-/usr/bin/git --git-dir=/home/omk/.dotfiles/ --work-tree=/home/omk add ~/.config/alacritty/ ~/.config/coc/ ~/.config/nvim/coc-settings.json ~/.config/nvim/init.vim ~/.config/nvim/plug-config/ ~/.config/nvim/spell/ ~/.config/ranger/rifle.conf ~/.config/ranger/scope.sh ~/.config/ranger/commands.py ~/.config/ranger/commands_full.py ~/.config/ranger/rc.conf ~/fortunes ~/.aliases ~/.bashrc ~/.config/ncmpcpp/ /home/omk/.mpd/ /home/omk/.mozilla/firefox/agz2ejew.default-release/chrome/userChrome.css ~/.mpd/ ~/.config/sway/ ~/.config/waybar/ ~/.config/swaylock/ ~/.config/pipewire/ ~/.config/pipewire/ ~/.config/wofi/ /home/omk/.blerc ~/.profile ~/Scripts ~/fortunes ~/.config/nwg-wrapper/ ~/.config/mako/
+/usr/bin/git --git-dir=/home/omk/.dotfiles/ --work-tree=/home/omk add ~/.config/alacritty/ ~/.config/coc/ ~/.config/nvim/coc-settings.json ~/.config/nvim/init.vim ~/.config/nvim/plug-config/ ~/.config/nvim/spell/ ~/.config/ranger/rifle.conf ~/.config/ranger/scope.sh ~/.config/ranger/commands.py ~/.config/ranger/commands_full.py ~/.config/ranger/rc.conf ~/fortunes ~/.aliases ~/.bashrc ~/.config/ncmpcpp/ /home/omk/.mpd/ /home/omk/.mozilla/firefox/agz2ejew.default-release/chrome/userChrome.css ~/.mpd/ ~/.config/sway/ ~/.config/waybar/ ~/.config/swaylock/ ~/.config/pipewire/ ~/.config/pipewire/ ~/.config/wofi/ /home/omk/.blerc ~/.profile ~/Scripts ~/fortunes ~/.config/nwg-wrapper/ ~/.config/mako/ ~/.config/hypr/
 
 /usr/bin/git --git-dir=/home/omk/.dotfiles/ --work-tree=/home/omk commit -m "updatessss"
 

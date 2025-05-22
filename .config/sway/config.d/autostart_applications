@@ -25,6 +25,9 @@ exec mpd &
 # MULLVAD
 exec sleep 2 && mullvad-vpn &
 
+# Blueman Bluetooth
+exec sleep 1 && blueman-applet &
+
 # Welcome App
 # exec dex -a -s /etc/xdg/autostart/:~/.config/autostart/  
 
@@ -56,3 +59,7 @@ exec_always sleep 1 && nwg-wrapper -s wttr.sh -r 300000 -c wttr.css -p left -a s
 
 # Conky
 # exec_always /home/omk/.config/conky/launch.sh
+
+# WAYBAR
+
+exec_always waybar --config /home/omk/.config/waybar/config

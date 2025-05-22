@@ -34,10 +34,14 @@ ShowInstallerIsoInfo() {
     fi
 }
 
+# if uwsm check may-start && uwsm select; then
+# 	exec uwsm start default
+# fi
+
 # export http_proxy=192.168.49.1:8000
 # export https_proxy=192.168.49.1:8000
 
-export PATH="$HOME/Scripts:$PATH"
+export PATH="/home/omk/Scripts:$PATH"
 
 export PS1="\[\e[31m\][\[\e[m\]\[\e[38;5;172m\]\u\[\e[m\]@\[\e[38;5;153m\]\h\[\e[m\] \[\e[38;5;214m\]\W\[\e[m\]\[\e[31m\]]\[\e[m\]\\$ "
 
@@ -45,6 +49,7 @@ export PS1="\[\e[31m\][\[\e[m\]\[\e[38;5;172m\]\u\[\e[m\]@\[\e[38;5;153m\]\h\[\e
 
 export VISUAL=nvim;
 export EDITOR=nvim;
+export PATH=~/.npm-global/bin:$PATH
 
 # Aliases
 

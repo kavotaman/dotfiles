@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-locale=Sao_Paulo
+locale=Ann+Arbor
 todo=$(cat /home/omk/Documents/todo.txt)
 wttr2=$(curl wttr.in/"$locale"?format="%C+%t++%f\n")
 wttr3=$(curl wttr.in/"$locale"?format="++%w+++%P\n")
