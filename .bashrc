@@ -45,6 +45,12 @@ export PATH="/home/omk/Scripts:$PATH"
 
 export PS1="\[\e[31m\][\[\e[m\]\[\e[38;5;172m\]\u\[\e[m\]@\[\e[38;5;153m\]\h\[\e[m\] \[\e[38;5;214m\]\W\[\e[m\]\[\e[31m\]]\[\e[m\]\\$ "
 
+
+# Python thing
+export PATH="$HOME/.pyenv/bin:$PATH"
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
+
 # EDITOR
 
 export VISUAL=nvim;
@@ -150,3 +156,6 @@ fortune ~/fortunes/omk | cowsay
 # QT themes KDE apps
 # export XDG_CURRENT_DESKTOP=KDE
 export QT_QPA_PLATFORMTHEME=qt5ct
+
+# Created by `pipx` on 2025-06-13 00:35:20
+export PATH="$PATH:/home/omk/.local/bin"

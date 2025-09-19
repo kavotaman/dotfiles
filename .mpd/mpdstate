@@ -3,8 +3,8 @@ audio_device_state:1:PipeWire Sound Server
 audio_device_state:1:my_fifo
 state: pause
 current: 0
-time: 5.337
-random: 1
+time: 136.916
+random: 0
 repeat: 0
 single: 0
 consume: 1
@@ -13,5 +13,35 @@ mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
-0:Proprias/Macabration/[2025] Macabreatles/17. Eu Vi um Semblante.mp3
+0:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 3/3-12 Ayreon - The Consultation (Instrumental).mp3
+1:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 3/3-13 Ayreon - Diagnosis (Instrumental).mp3
+2:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 3/3-14 Ayreon - The Argument 1 (Instrumental).mp3
+3:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 3/3-15 Ayreon - The Rival's Dilemma (Instrumental).mp3
+4:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 3/3-16 Ayreon - Surface Tension (Instrumental).mp3
+5:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 3/3-17 Ayreon - A Reason To Live (Instrumental).mp3
+6:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 3/3-18 Ayreon - Potential (Instrumental).mp3
+7:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 3/3-19 Ayreon - Quantum Chaos (Instrumental).mp3
+8:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 3/3-20 Ayreon - Dark Medicine (Instrumental).mp3
+9:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 3/3-21 Ayreon - Alive! (Instrumental).mp3
+10:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 3/3-22 Ayreon - The Prediction (Instrumental).mp3
+11:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-01 Ayreon - Fluctuations (Instrumental).mp3
+12:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-02 Ayreon - Transformation (Instrumental).mp3
+13:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-03 Ayreon - Collision (Instrumental).mp3
+14:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-04 Ayreon - Side Effects (Instrumental).mp3
+15:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-05 Ayreon - Frequency Modulation (Instrumental).mp3
+16:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-06 Ayreon - Magnetism (Instrumental).mp3
+17:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-07 Ayreon - Quid Pro Quo (Instrumental).mp3
+18:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-08 Ayreon - String Theory (Instrumental).mp3
+19:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-09 Ayreon - Fortune_ (Instrumental).mp3
+20:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-10 Ayreon - Mirror Of Dreams (Instrumental).mp3
+21:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-11 Ayreon - The Lighthouse (Instrumental).mp3
+22:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-12 Ayreon - The Argument 2 (Instrumental).mp3
+23:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-13 Ayreon - The Parting (Instrumental).mp3
+24:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-14 Ayreon - The Visitation (Instrumental).mp3
+25:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-15 Ayreon - The Breakthrough (Instrumental).mp3
+26:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-16 Ayreon - The Note (Instrumental).mp3
+27:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-17 Ayreon - The Uncertainty Principle (Instrumental).mp3
+28:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-18 Ayreon - Dark Energy (Instrumental).mp3
+29:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-19 Ayreon - The Theory Of Everything, Part 3 (Instrumental).mp3
+30:Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 4/4-20 Ayreon - The Blackboard (Reprise) (Instrumental).mp3
 playlist_end
